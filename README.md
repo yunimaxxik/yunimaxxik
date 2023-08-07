@@ -5,6 +5,7 @@
 - I love programming
 - I am lerning english
 - I love cars
+- I like discipline and sport
 
 ### Language and Tools
 - C#
