@@ -33,11 +33,6 @@
 - ✉️ Email: nicxefonn@yandex.ru
 - 💬 Telegram: [@yunimaxxik](https://t.me/yunimaxxik)
 
-## 📊 GitHub статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ваш_никнейм&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_никнейм&layout=compact&theme=tokyonight)
-
 ---
 
 ⭐️ **Спасибо, что заглянули! Буду рад конструктивному общению и предложениям о работе.**
