@@ -26,11 +26,10 @@
 
 ## 📂 Мои проекты
 
-| Проект | Стек | Демо | Репозиторий |
-|--------|------|------|--------------|
-| ToDo-менеджер | React, hooks, localStorage | [Ссылка](https://...) | [GitHub](https://...) |
+| Проект | Стек | Репозиторий |
+|--------|------|--------------|
+| ToDo-менеджер | React, hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todo) |
 | Сайт визитка | React, TypeScript, localStorage | [Ссылка](https://...) | [GitHub](https://...) |
-| ToDo-менеджер | React, hooks, localStorage | [Ссылка](https://...) | [GitHub](https://...) |
 
 ## 📫 Как со мной связаться
 
