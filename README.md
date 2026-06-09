@@ -30,7 +30,7 @@
 | Проект | Стек | Репозиторий |
 |--------|------|--------------|
 | ToDo-менеджер на Чистом JS  | HTML, CSS, JS, A11y | [GitHub](https://github.com/yunimaxxik/todo) |
-| ToDo-менеджер на React | React, hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todo) |
+| ToDo-менеджер на React | React, hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todoReact) |
 | Сайт визитка | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) |
 
 ## 📫 Как со мной связаться
