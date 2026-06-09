@@ -23,13 +23,15 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ## 📂 Мои проекты
 
 | Проект | Стек | Репозиторий |
 |--------|------|--------------|
-| ToDo-менеджер | React, hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todo) |
-| Сайт визитка | React, TypeScript, localStorage | [Ссылка](https://...) | [GitHub](https://...) |
+| ToDo-менеджер на Чистом JS  | HTML, CSS, JS, A11y | [GitHub](https://github.com/yunimaxxik/todo) |
+| ToDo-менеджер на React | React, hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todo) |
+| Сайт визитка | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) |
 
 ## 📫 Как со мной связаться
 
