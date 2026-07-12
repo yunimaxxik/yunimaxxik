@@ -27,11 +27,11 @@
 
 ## 📂 Мои проекты
 
-| Проект | Стек | Исходный код | Live Demo |
-|--------|------|--------------|-----------|
-| **ToDo-менеджер** | React, Hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todoReact) | [Смотреть](https://твоя-ссылка.vercel.app) |
-| **Ретро игра** | JavaScript, WebPack, Jest | [GitHub](https://github.com/yunimaxxik/retroGame) | [Смотреть](https://твоя-ссылка.vercel.app) |
-| **Сайт-визитка** | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) | [Смотреть](https://твоя-ссылка.vercel.app) |
+| Проект | Стек | Исходный код |
+|--------|------|--------------|
+| **ToDo-менеджер** | React, Hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todoReact) | 
+| **Ретро игра** | JavaScript, WebPack, Jest | [GitHub](https://github.com/yunimaxxik/retroGame) | 
+| **Сайт-визитка** | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) |
 
 ## 📫 Как со мной связаться
 
