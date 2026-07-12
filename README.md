@@ -6,33 +6,32 @@
 
 ## 👨‍💻 Обо мне
 
-- 🔭 Сейчас я ищу **стажировку или позицию Junior Frontend-разработчика**
-- 🌱 Изучаю **React, TypeScript, современные инструменты сборки**
-- 📖 Учу английский для чтения документации и общения в международных командах
-- 🚗 Увлекаюсь автомобилями и книгами
-- 🏋️‍♂️ Ценю дисциплину и спорт – это помогает в программировании
+- 🔭 Сейчас я активно ищу **стажировку или позицию Junior Frontend-разработчика**
+- 🌱 Углубляюсь в **React** (Hooks, Context, State Management) и **TypeScript**
+- 🛠️ Умею настраивать сборку проектов с помощью **Vite** и **Webpack**
+- 📖 Изучаю английский язык для чтения технической документации
+- 🏋️‍♂️ Ценю дисциплину, спорт и постоянное развитие — как в жизни, так и в коде
 
 ## 🛠️ Мой стек
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS/SCSS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ## 📂 Мои проекты
 
-| Проект | Стек | Репозиторий |
-|--------|------|--------------|
-| ToDo-менеджер на React | React, hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todoReact) |
-| Ретро игра | JavaScript, WebPack, Jest | [GitHub](https://github.com/yunimaxxik/retroGame) |
-| Сайт визитка | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) |
-
+| Проект | Стек | Исходный код | Live Demo |
+|--------|------|--------------|-----------|
+| **ToDo-менеджер** | React, Hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todoReact) | [Смотреть](https://твоя-ссылка.vercel.app) |
+| **Ретро игра** | JavaScript, WebPack, Jest | [GitHub](https://github.com/yunimaxxik/retroGame) | [Смотреть](https://твоя-ссылка.vercel.app) |
+| **Сайт-визитка** | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) | [Смотреть](https://твоя-ссылка.vercel.app) |
 
 ## 📫 Как со мной связаться
 
