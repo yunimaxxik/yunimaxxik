@@ -24,14 +24,16 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📂 Мои проекты
 
-| Проект | Стек | Исходный код |
-|--------|------|--------------|
-| **ToDo-менеджер** | React, Hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todoReact) | 
-| **Ретро игра** | JavaScript, WebPack, Jest | [GitHub](https://github.com/yunimaxxik/retroGame) | 
-| **Сайт-визитка** | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) |
+| Проект | Стек | Исходный код | Ссылка на решение |
+|--------|------|--------------|-------------------|
+| **ToDo-менеджер** | React, Hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todoReact) | [Демо](https://yunimaxxik.github.io/todo-react/) | 
+| **Ретро игра** | JavaScript, WebPack, Jest | [GitHub](https://github.com/yunimaxxik/retroGame) | [Демо](https://github.com/yunimaxxik) | 
+| **Сайт-визитка** | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) | [Демо](https://github.com/yunimaxxik) | 
 
 ## 📫 Как со мной связаться
 
