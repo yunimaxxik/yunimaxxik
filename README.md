@@ -31,9 +31,10 @@
 
 | Проект | Стек | Исходный код | Ссылка на решение |
 |--------|------|--------------|-------------------|
+| **Сайт-визитка** | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) | [Демо](https://github.com/yunimaxxik) | 
+| **Smart Booking** | React, TypeScript, Zustand | [GitHub](https://github.com/yunimaxxik/smart-booking) | [Демо](https://github.com/yunimaxxik) | 
 | **ToDo-менеджер** | React, Hooks, localStorage | [GitHub](https://github.com/yunimaxxik/todoReact) | [Демо](https://yunimaxxik.github.io/todo-react/) | 
 | **Ретро игра** | JavaScript, WebPack, Jest | [GitHub](https://github.com/yunimaxxik/retroGame) | [Демо](https://github.com/yunimaxxik) | 
-| **Сайт-визитка** | React, TypeScript, localStorage | [GitHub](https://github.com/yunimaxxik/cv-site) | [Демо](https://github.com/yunimaxxik) | 
 
 ## 📫 Как со мной связаться
 
